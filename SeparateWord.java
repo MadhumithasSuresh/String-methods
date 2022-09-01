@@ -14,6 +14,8 @@ public class SeparateWord {
         System.out.println(courseList[2].toLowerCase());
         System.out.println(courseList[3].length());
         System.out.println(courseList[3].toLowerCase());
+        
+        System.out.println("Welcome india");
             
         
 	}
